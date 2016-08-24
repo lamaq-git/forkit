@@ -1,2 +1,2 @@
 # forkit
-Fork zis
+Tohle je můj první commit!
